@@ -1,0 +1,375 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.heading-style {
+    color: #d0b200;
+}
+
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.gogagaHeading {
+    color: #a58d00;
+    font-family: "Caveat";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand_335224-1356.jpg?t=st=1710443758~exp=1710447358~hmac=9e65a7391c525e6615748530752059c23522ff3a5646252bc745f27c9bf88b78&w=996");
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Caveat";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: white;
+    background-color: #ffffff;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+
+.hp-section {
+    background-color: #f9fbfe;
+}
+
+.hp-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.hp-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.hp-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.hp-card-image {
+    width: 87px;
+    height: 90px;
+}
+
+.hp-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.hp-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.flights-section {
+    background-color: white;
+}
+
+.flights-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
+
+.hotel-section {
+    background-color: #f9fbfe;
+}
+
+.hotel-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
+
+.package-collection-section {
+    background-color: white;
+}
+
+
+.delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+    text-align: center;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.icon {
+    font-size: 35px;
+    color: #d0b200;
+}
+
+.icon-container {
+    height: 80px;
+    width: 80px;
+    background-color: #faf7e8;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-top: 22px;
+    padding-left: 22px;
+    margin: 15px;
+    border-radius: 50px;
+}
+
+/* Flight search form styles */
+#flight-search-form {
+    margin-bottom: 20px;
+}
+
+#flight-search-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#flight-search-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#flight-search-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#flight-search-form button:hover {
+    background-color: #0056b3;
+}
+
+/* Flight search results styles */
+#flight-results {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flight-result {
+    width: 45%;
+    margin: 0 2.5%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.flight-result h3 {
+    margin-bottom: 10px;
+}
+
+.flight-result p {
+    margin-bottom: 5px;
+}
+
+.flight-result button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.flight-result button:hover {
+    background-color: #0056b3;
+}
+
+/* Hotel search form styles */
+#hotel-search-form {
+    margin-bottom: 20px;
+}
+
+#hotel-search-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#hotel-search-form input,
+#hotel-search-form select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#hotel-search-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#hotel-search-form button:hover {
+    background-color: #0056b3;
+}
+
+/* Hotel search results styles */
+#hotel-results {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hotel-result {
+    width: 45%;
+    margin: 0 2.5%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.hotel-result h3 {
+    margin-bottom: 10px;
+}
+
+.hotel-result p {
+    margin-bottom: 5px;
+}
+
+.hotel-result button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.hotel-result button:hover {
+    background-color: #0056b3;
+}
